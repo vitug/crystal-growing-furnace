@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\gnuplot\bin\pgnuplot.exe" show_graph.plt 
